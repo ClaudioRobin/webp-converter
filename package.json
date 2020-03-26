@@ -1,0 +1,16 @@
+{
+  "name": "webp_converter",
+  "version": "1.0.0",
+  "description": "Conversor de imagens webp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Claudio Barduchi Robin",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^6.4.0",
+    "webp-converter": "^2.2.3"
+  }
+}

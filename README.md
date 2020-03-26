@@ -1,13 +1,13 @@
-# Conversor de imagens para WebP
+# Conversor de imagens para webp
 
-Faz uso do pacote webp-converter para a conversão de imagem para webp.
-A implementação permite que multiplas imagens sejam convertidas ao ser executado um comando `npm start`.
+Faz uso do pacote webp-converter para a conversão de imagem para o formato webp.
+A implementação permite que multiplas imagens sejam convertidas para webp ao ser executado o comando `npm start`.
 
 ## Convertendo imagens
 
-- Coloque as imagens que serão convertidas para WebP na pasta _images/input_.
+- Coloque as imagens que serão convertidas para webp na pasta _images/input_.
 - Execute o comando `npm start`
-- As imagens WebP serão geradas e guardadas na pasta _images/webp_
+- As imagens .webp serão armazenadas na pasta _images/webp_
 
 ## Dependencias
 

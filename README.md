@@ -6,7 +6,7 @@ A implementação permite que multiplas imagens sejam convertidas para webp ao s
 ## Convertendo imagens
 
 - Coloque as imagens que serão convertidas para webp na pasta _images/input_.
-- Execute o comando `npm start`
+- Execute o comando `npm install` e `npm start`
 - As imagens .webp serão armazenadas na pasta _images/webp_
 
 ## Dependencias
